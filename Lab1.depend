@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\jerry groom\desktop\data structures\lab1\main.cpp
+	<iostream>
+
+1425596612 source:c:\users\jerry groom\desktop\data structures\lab1\test1.cpp
+	<iostream>
+	"Text.h"
+	"config.h"
+
+1425596124 c:\users\jerry groom\desktop\data structures\lab1\text.h
+	<stdexcept>
+	<iostream>
+
+1425597015 c:\users\jerry groom\desktop\data structures\lab1\config.h
+
+1425597764 source:c:\users\jerry groom\desktop\data structures\lab1\text.cpp
+	"Text.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<iomanip>
+
+1425602990 source:c:\users\jerry groom\desktop\data structures\lab1\textio.cpp
+	"Text.h"
+	<iostream>
+	<iomanip>
+
+1426191853 source:c:\users\jerry groom\desktop\data structures\lab1\lexicalanalysis.cpp
+	"Text.h"
+	<iostream>
+	<cstring>
+	<fstream>
+
